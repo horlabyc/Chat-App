@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "163591402035",
+    "firebase_url": "https://project-ngbook.firebaseio.com",
+    "project_id": "project-ngbook",
+    "storage_bucket": "project-ngbook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163591402035:android:90b02417465a5332836946",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163591402035-n81761rioiu8ejjbb319faqeqt5hklo0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4tWdcDV9uwl2KTjY6o5ePWXkeP-XI0fU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163591402035-n81761rioiu8ejjbb319faqeqt5hklo0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
